@@ -17,7 +17,7 @@
     "@mui/lab": "^5.0.0-alpha.170",
     "@mui/material": "^5.15.20",
     "@mui/x-data-grid": "^7.6.2",
-    "@mui/x-date-pickers": "^7.6.2",
+    "@mui/x-date-pickers": "^7.28.0",
     "chart.js": "^4.4.3",
     "date-fns": "^3.6.0",
     "jspdf": "^2.5.1",
